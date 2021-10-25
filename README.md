@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub  [MODIFIED BY FURKAN UYSAL, 150150044]
+# :wave: The Basics of GitHub  [MODIFIED BY FURKAN UYSAL, 150150044] 25.10.2021 11.31
 
 ## 🤓 Course overview and learning outcomes 
 
